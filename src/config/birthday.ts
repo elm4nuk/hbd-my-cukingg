@@ -21,7 +21,7 @@ export const birthdayConfig = {
   letter: {
     greeting: 'Untuk Pica,',
     paragraphs: [
-      '[TULIS PESAN PERSONAL FIRAZ DI SINI]',
+      'HBDDDD MY CUKINGGG',
       'Semoga hari ulang tahunmu dipenuhi hal-hal yang bikin kamu senyum, dan perjalanan berikutnya membawa banyak kejutan baik.',
       'Terima kasih sudah menjadi Pica yang seru dan unik. Selamat ulang tahun, Picuy!',
     ],
